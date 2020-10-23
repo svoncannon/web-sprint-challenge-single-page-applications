@@ -33,9 +33,13 @@ Demonstrate your understanding of this week's concepts by answering the followin
 1. In 1-2 sentences, explain what React's `useRouteMatch` hook is used for.
 
 useRouteMatch can be used for navigation, by matching the current URL to a path name, mostly useful for testing match data without actually rendering a route
+
 1. How would you explain form validation to someone who has never programmed before?
+
 validation is the process of setting up tests to make sure the data we get from users is as good as we can make it
+
 1. In 1-2 sentences, define end to end testing.
+
 end to end testing a way to use code to interact with our applications. They do what a user would, and poke around adding content and testing features like buttons
 ## Instructions
 
